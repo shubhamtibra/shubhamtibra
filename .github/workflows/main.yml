@@ -34,7 +34,8 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 60
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_ignored: html, css
+          plugin_languages_ignored: html, css, matlab
+          plugin_languages_indepth: yes
           plugin_languages_indepth_custom: sympy/sympy
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
@@ -46,13 +47,13 @@ jobs:
           plugin_leetcode_limit_recent: 2
           plugin_leetcode_limit_skills: 10
           plugin_leetcode_sections: solved
-          plugin_leetcode_user: .user.login
+          plugin_leetcode_user: tibra
           plugin_lines: yes
           plugin_lines_history_limit: 10
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
           plugin_notable: yes
-          plugin_notable_from: user
+          plugin_notable_from: all
           plugin_notable_indepth: yes
           plugin_notable_repositories: yes
           plugin_notable_self: yes
