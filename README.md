@@ -1,4 +1,2 @@
-![Subham Tibra's stats](https://github-readme-stats.vercel.app/api?username=shubhamtibra&show=prs_merged,prs_merged_percentage&show_icons=true)
-
-![Metrics](/github-metrics.svg)
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 
