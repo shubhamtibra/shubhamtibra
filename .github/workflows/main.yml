@@ -29,21 +29,10 @@ jobs:
           template: classic
           base: ""
           config_timezone: Asia/Calcutta
-          plugin_leetcode: yes
-          plugin_leetcode_limit_recent: 2
-          plugin_leetcode_limit_skills: 10
-          plugin_leetcode_sections: solved
-          plugin_leetcode_user: tibra
           plugin_lines: yes
           plugin_lines_history_limit: 10
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
-          plugin_notable: yes
-          plugin_notable_from: all
-          plugin_notable_indepth: yes
-          plugin_notable_repositories: yes
-          plugin_notable_self: yes
-          plugin_notable_types: commit
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
           plugin_stargazers_charts_type: classic
