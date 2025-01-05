@@ -74,7 +74,7 @@ jobs:
           plugin_isocalendar_duration: half-year
           
           # Private contributions
-          commits_authoring: your.email@domain.com, alternative@domain.com
+          commits_authoring: subhamt@sprinto.com, subham.tibra@kommunicate.io
           repositories_forks: yes
           repositories_affiliations: owner, collaborator
           repositories: 100
