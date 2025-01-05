@@ -32,7 +32,7 @@ jobs:
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_sections: most-used, recently-used
-          plugin_languages_threshold: 2%
+          plugin_languages_details: bytes-size, percentage
           
           # Plugin: Notable contributions
           plugin_notable: yes
@@ -44,7 +44,7 @@ jobs:
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
           plugin_habits_facts: yes
-          plugin_habits_from: 200
+          plugin_habits_from: 1000
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 2%
           
