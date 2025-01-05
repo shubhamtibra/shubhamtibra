@@ -20,7 +20,7 @@ jobs:
           # General configuration
           user: shubhamtibra
           template: classic
-          base: header, activity, repositories
+          base: header
           config_timezone: Asia/Kolkata
           
           # Plugin: Languages and code analysis
