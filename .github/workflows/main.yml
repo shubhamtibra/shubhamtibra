@@ -37,7 +37,7 @@ jobs:
           # Plugin: Notable contributions
           plugin_notable: yes
           plugin_notable_from: organization
-          plugin_notable_types: commit
+          plugin_notable_types: commit, pull_request
           
           # Plugin: Coding habits
           plugin_habits: yes
@@ -46,7 +46,6 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_from: 1000
           plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 2%
           plugin_habits_charts: yes
           
           # Plugin: Lines of code changed
