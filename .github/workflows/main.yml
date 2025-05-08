@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule to run daily
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "0 0 * * *"}]
   # Allow manual trigger
   workflow_dispatch:
   push: {branches: ["master", "main"]}
